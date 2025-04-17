@@ -1,4 +1,6 @@
-# 10 Tkinter **Real World** Projects.
+# **Real World** Tkinter Projects.
+
+Here I have my collection of Tkinter Projects that I worked on to practice my skills. Feel free to explore them!
 
 ## Projects
 
@@ -116,3 +118,17 @@
   - Use of SQLite for data storage and retrieval.
 - **Complexity:** Advanced.
 - **Benefits:** Introduces database integration and data management.
+
+## How to Run?
+
+First, create a virtual environment, then install all the packages in the `requirements.txt` file:
+
+```
+pip install -r requirements.txt
+```
+
+After that you should be able to run all the projects without any issues!
+
+## Contribution
+
+Feel free to contribute by creating your own branch, forking, creating an issue or making a pull request.
